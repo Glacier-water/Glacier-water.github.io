@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>养生主Blog</title>
+  <title>BLOG</title>
   
-  <subtitle>知其不可奈何而安之若命，德之至也不是</subtitle>
+  
   <link href="https://glacier-water.github.io/atom.xml" rel="self"/>
   
   <link href="https://glacier-water.github.io/"/>
