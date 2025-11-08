@@ -1,3 +1,3 @@
-var posts=["2025/11/03/Datawhale动手学agent开发——Agent产品案例深度拆解/","2025/11/04/Datawhale动手学agent开发——Agent设计模式与工程化/","2025/11/03/hello-world/"];function toRandomPost(){
+var posts=["2025/11/03/Datawhale动手学agent开发——Agent产品案例深度拆解/","2025/11/03/hello-world/"];function toRandomPost(){
     pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);
   };
